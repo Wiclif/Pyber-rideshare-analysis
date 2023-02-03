@@ -3,6 +3,7 @@ Pyber is a software company that provides CRM and strategic management services 
 It is a python based ridesharing app company.
 This projects seeks at performing exploratory data analysis on the data and create visualizations to tell a compelling story.
 It aims to create a variety of charts that showcase the relationship between the type of city, number of drivers and riders as well as the percentage of total fares, riders and drivers by type of city.
+
 The analysis and visualizations produced will help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods
 
 ## Project overview
@@ -24,7 +25,7 @@ The analysis and visualizations produced will help PyBer improve access to ride-
 
 ## Resourses
 - Software used: Jupyter Notebook, Python
-- Data sources: 
+- Data sources: [city_data.csv](https://github.com/Wiclif/Pyber-rideshare-analysis/blob/main/city_data.csv), [rider_data.csv](https://github.com/Wiclif/Pyber-rideshare-analysis/blob/main/rider_data.csv)
 
 ## Results
 ![Fig1](https://user-images.githubusercontent.com/89896665/216718592-bee19b91-fc68-4464-9522-527c4036bbc5.png)
